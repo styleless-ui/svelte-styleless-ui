@@ -16,7 +16,7 @@ Completely unstyled, headless and accessible [Svelte](https://svelte.dev/) UI co
 
 <div align="center">
 
-> We will work on this as soon as the stable version of the <a href="https://github.com/styleless-ui/react-styleless-ui">`styleless-ui/react`</a> project is released.
+> We will work on this as soon as the stable version of the <a href="https://github.com/styleless-ui/react-styleless-ui">`styleless-ui/react`</a> project and it's documentation are released.
 
 </div>
 
